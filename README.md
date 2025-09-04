@@ -33,17 +33,28 @@ This .ipynb file contains the full preliminary data analysis on the TLC dataset
 
 ## 📘 Getting Started
 
-1. Clone the repository
-2. Create a virtual environment
-
-  python -m venv venv
-  venv\Scripts\activate # Windows
-
-3. Install dependencies
-   
-   pip install pandas==2.3.1 numpy==2.3.2
-   
-4. Launch the Juypter Notebook
+1. **Clone the repository**
+```
+git clone https://github.com/Cameron-Nann-Python/Google-Advanced-Data-Analytics-Projects.git
+```
+2. **Create a project folder and a virtual environment**
+```
+# Ran on Python3.13
+mkdir project_preliminary_analysis
+python -m venv venv
+venv\Scripts\activate # Windows
+```
+3. **Install dependencies**
+```
+pip install pandas==2.3.1 numpy==2.3.2 ipykernel
+```
+4.  **Create the csv folder**
+```
+mkdir input
+```
+5. **Open notebook in VSCode**
+- Open VSCode
+- Open lab notebook `project_2_Automatidata_lab.ipynb` and select the virtual environment for kernel
 
 ### 📂 Files Included
 - `2017_Yellow_Taxi_Trip_Data.csv`: TLC taxi cab dataset
