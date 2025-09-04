@@ -25,7 +25,7 @@ Key insights from the preliminary analysis include:
 3. Recommended next steps include thorough data cleaning and statistical analysis to prepare the dataset for modeling.
 
 ## 📑 Automatidata Lab Notebook
-This .ipynb file contains the full preliminary data analysis on the TLC dataset
+The `project_2_Automatidata_lab.ipynb` file contains the full preliminary data analysis on the TLC dataset
 
 ## 📑 Dependencies
 - pandas==2.3.1
