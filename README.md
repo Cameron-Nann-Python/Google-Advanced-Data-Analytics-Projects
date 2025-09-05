@@ -12,7 +12,7 @@ TLC has provided a dataset of taxicab trip information to Automatidata for analy
 ## 📄 PACE Strategy Document
 The PACE document outlines the strategic framework for approaching the project. It breaks down the workflow into two phases:
 
-1. Set up a Juypter notebook for the TLC dataset to perform preliminary data analysis
+1. Set up a Jupyter notebook for the TLC dataset to perform preliminary data analysis
 2. Review the dataset and provide the information requested by the senior data analyst
 
 This document serves as a roadmap to planning the data, analyzing data relationships and key features, and providing findings on the dataset.
