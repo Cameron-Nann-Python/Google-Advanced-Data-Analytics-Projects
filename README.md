@@ -29,36 +29,36 @@ The visualization can be accessed at the link provided below:
 https://public.tableau.com/app/profile/cameron.nann/viz/AutomatidataVisualizations/trip_distance_total_amount_2017
 
 ## 📄Automatidata Lab Notebook
-The `project_3_Automatidata_lab.ipynb` file contains the full exploratory data analysis on the TLC dataset
+The `project_3_Automatidata_lab.ipynb` file contains the full exploratory data analysis on the TLC dataset.
 
 ## 📄 Dependencies
 - pandas==2.3.1
 - numpy==2.3.2
 - matplotlib==3.10.5
 - seaborn==0.13.2
+  
 ## 📘 Getting Started 
-1. **Clone the repository**
+1. **Clone the repository branch into a project folder in VSCode**
 ```
-git clone https://github.com/Cameron-Nann-Python/Google-Advanced-Data-Analytics-Projects.git
+git clone --branch project-3-exploratory-data-analysis --single-branch https://github.com/Cameron-Nann-Python/Google-Advanced-Data-Analytics-Projects.git
 ```
-2. **Create a project folder and a virtual environment**
+2. **Navigate to the project folder and create a virtual environment**
 ```
 # Ran on Python3.13
-mkdir project_preliminary_analysis
+cd Google-Advanced-Data-Analytics-Projects
 python -m venv venv
+
+# activate the virtual environment
 venv\Scripts\activate # Windows
 ```
 3. **Install dependencies**
 ```
 pip install pandas==2.3.1 numpy==2.3.2 maplotlib==3.10.5 seaborn==0.13.2 ipykernel
 ```
-4.  **Create the csv folder**
-```
-mkdir input
-```
-5. **Open notebook in VSCode**
-- Open VSCode
+
+4. **Open notebook and review documents as needed**
 - Open lab notebook `project_3_Automatidata_lab.ipynb` and select the virtual environment for kernel
+- Review `pdf` folder to better understand workflow
 
 
 ### 📂 Files Included
