@@ -48,11 +48,7 @@ venv\Scripts\activate # Windows
 ```
 pip install pandas==2.3.1 numpy==2.3.2 ipykernel
 ```
-4.  **Create the csv folder**
-```
-mkdir input
-```
-5. **Open notebook in VSCode**
+4. **Open notebook in VSCode**
 - Open VSCode
 - Open lab notebook `project_2_Automatidata_lab.ipynb` and select the virtual environment for kernel
 
