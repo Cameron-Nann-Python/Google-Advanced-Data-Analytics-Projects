@@ -57,7 +57,7 @@ mkdir input
 - Open lab notebook `project_2_Automatidata_lab.ipynb` and select the virtual environment for kernel
 
 ### 📂 Files Included
-- `2017_Yellow_Taxi_Trip_Data.csv`: TLC taxi cab dataset
+- `2017_Yellow_Taxi_Trip_Data.csv`: TLC taxicab dataset
 - `project_2_PACE_strategy.pdf`: guide for project workflow 
 - `project_2_executive_summary.pdf`: overview of analysis results and next actions
 - `project_2_Automatidata_lab.ipynb`: preliminary data analysis lab notebook
