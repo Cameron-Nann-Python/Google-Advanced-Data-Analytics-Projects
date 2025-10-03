@@ -12,7 +12,7 @@ The PACE document outlines the strategic framework for approaching the project. 
 1. Set up a Python notebook for the TLC dataset to perform statistical analysis
 2. Perform EDA to clean dataset prior to analysis
 3. Conduct an A/B test determine the effect of average credit card payments on fare amount vs average cash payments on fare amount
-4. Use hypothesis testing to formualte a two-sample t-test with random sampling to determine whether there is a statically significant difference between the average credit card and cash payment.
+4. Use hypothesis testing to formualte a two-sample t-test with random sampling to determine whether there is a statically significant difference between the average credit card and cash payment
 
 This document serves as a roadmap to planning the data, analyzing data relationships and key features, and providing findings on the dataset. 
 
