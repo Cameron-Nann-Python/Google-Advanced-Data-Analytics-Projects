@@ -1,4 +1,6 @@
-# 📘 Project 4 - Statistical Data Analysis
+# 🚕 Project 4 - Statistical Data Analysis
+
+## 📘 Overview
 This project is part of the Automatidata track in the Google Advanced Data Analytics Certificate Program. In this scenario, Automatidata is a consulting firm engaged by the New York City Taxi & Limousine Commission (TLC). TLC seeks to develop a regression model that predicts taxi fares before a ride begins, enabling greater transparency and customer trust.
 
 Automatidata has reviewed the TLC taxicab dataset, and is looking to increase earnings for taxicab drivers, which is captured by the variable `fare_amount`. There are multiple payment methods, stored in a variable `payment_type`, that appear to influence the fare amount paid by the customer, and the current responsibility of my role is to determine if there is a statistically significant relationship between `fare_amount` and `payment_type`
