@@ -11,4 +11,4 @@ Project 3: Exploratory Data Analysis
 
 Project 4: Statistical Data Analysis
 
-Project 5: Make a Multiple Linear Regression Model
+Project 5: Build a Multiple Linear Regression Model
