@@ -54,8 +54,8 @@ pip install pandas==2.3.1 numpy==2.3.2 scikit-learn==1.7.1 matplotlib==3.10.5 se
 ```
 
 4. **Open notebook and review documents as needed**
-- Open lab notebook `project_4_Automatidata_lab.ipynb` and select the virtual environment for kernel
-- Either change the location of the csv or put "csv/" when loading dataset (Windows)
+- Open lab notebook `project_5_Automatidata_lab.ipynb` and select the virtual environment for the kernel
+- Either change the location of the csv or put "csv/" when loading dataset (Windows) into a DataFrame
 - Review `pdf` folder to better understand workflow
 ## 📂 Files Included
 - `2017_Yellow_Tax_Trip_Data.csv`: TLC taxicab dataset
