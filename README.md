@@ -18,5 +18,5 @@ Project 4: Statistical Data Analysis
 Project 5: Build a Multiple Linear Regression Model
 - this project is an overview of linear regression techniques, modeling with scikit-learn, and meeting linearity assumptions
 
-Project 5: Build a Random Forest Model
+Project 6: Build a Random Forest Model
 - this project is an overview of random forest techniques, building classifiers, performing hyperparameter tuning with GridSearchCv, comparing model results, and model evaluation
