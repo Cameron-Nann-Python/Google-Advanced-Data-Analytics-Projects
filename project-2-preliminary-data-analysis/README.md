@@ -33,7 +33,7 @@ The `project_2_Automatidata_lab.ipynb` file contains the full preliminary data a
 
 ## 📘 Getting Started
 
-1. **Install Anaconda Navigator and create a virutal environment with Conda**
+1. **Install Anaconda Navigator and create a virtual environment with Conda**
 
 2. **Install the Jupyter Extension in VS Code, select the Conda environment as the kernel, and install the ipykernel package**
 - The package will automatically request to be installed in VS Code when trying to running a cell in a .ipynb file
