@@ -36,7 +36,6 @@ The `project_4_Automatidata_lab.ipynb` file contains the full statistical data a
 2. **Install the Jupyter Extension in VS Code, select the Conda environment as the kernel, and install the ipykernel package**
 - The package will automatically request to be installed in VS Code when trying to running a cell in a .ipynb file
 
-```
 3. **Install dependencies**
 ```
 pip install pandas==2.3.1 numpy==2.3.2 scipy==1.16.1 ipykernel
