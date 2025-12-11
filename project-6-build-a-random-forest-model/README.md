@@ -36,19 +36,11 @@ The project_6_Automatidata_lab.ipynb file contains the data modeling process on 
 - xgboost==3.0.3
 
   ## 📘 Getting Started
-1. **Clone the repository branch into a project folder in VSCode**
-```
-git clone --branch project-6-build-a-random-forest-model --single-branch https://github.com/Cameron-Nann-Python/Google-Advanced-Data-Analytics-Projects.git
-```
-2. **Navigate to the project folder and create a virtual environment**
-```
-# Ran on Python3.13
-cd Google-Advanced-Data-Analytics-Projects
-python -m venv venv
+1. **Install Anaconda Navigator and create a virtual environment with Conda**
 
-# activate the virtual environment
-venv\Scripts\activate # Windows
-```
+2. **Install the Jupyter Extension in VS Code, select the Conda environment as the kernel, and install the ipykernel package**
+- The package will automatically request to be installed in VS Code when trying to running a cell in a .ipynb file
+  
 3. **Install dependencies**
 ```
 pip install pandas==2.3.1 numpy==2.3.2 scikit-learn==1.7.1 matplotlib==3.10.5 xgboost==3.0.3 ipykernel
@@ -56,11 +48,11 @@ pip install pandas==2.3.1 numpy==2.3.2 scikit-learn==1.7.1 matplotlib==3.10.5 xg
 4. **Open notebook and review documents as needed**
 - Open lab notebook `project_6_Automatidata_lab.ipynb` and select the virtual environment for the kernel
 - Either change the location of the csv or put "csv/" when loading each dataset (Windows) into a DataFrame
-- Review `pdf` folder to better understand workflow
+- Review `pdf` folder to better understand the workflow
 
 ## 📂 Files Included
 - `2017_Yellow_Tax_Trip_Data.csv`: TLC taxicab dataset
 - `project_6_PACE_strategy.pdf`: guide for project workflow
 - `project_6_executive_summary.pdf`: overview of analysis and next actions
 - `project_6_Automatidata_lab.ipynb`: data modeling lab notebook
-- 'nyc_preds_means.csv`: dataset holding predicting and transformed feature columns from past project
+- 'nyc_preds_means.csv`: dataset holding predicting and transformed feature columns from project 5
