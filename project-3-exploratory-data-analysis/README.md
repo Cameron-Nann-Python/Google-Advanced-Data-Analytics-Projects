@@ -38,19 +38,11 @@ The `project_3_Automatidata_lab.ipynb` file contains the full exploratory data a
 - seaborn==0.13.2
   
 ## 📘 Getting Started 
-1. **Clone the repository branch into a project folder in VSCode**
-```
-git clone --branch project-3-exploratory-data-analysis --single-branch https://github.com/Cameron-Nann-Python/Google-Advanced-Data-Analytics-Projects.git
-```
-2. **Navigate to the project folder and create a virtual environment**
-```
-# Ran on Python3.13
-cd Google-Advanced-Data-Analytics-Projects
-python -m venv venv
+1. **Install Anaconda Navigator and create a virtual environment with Conda**
 
-# activate the virtual environment
-venv\Scripts\activate # Windows
-```
+2. **Install the Jupyter Extension in VS Code, select the Conda environment as the kernel, and install the ipykernel package**
+- The package will automatically request to be installed in VS Code when trying to running a cell in a .ipynb file
+- 
 3. **Install dependencies**
 ```
 pip install pandas==2.3.1 numpy==2.3.2 maplotlib==3.10.5 seaborn==0.13.2 ipykernel
