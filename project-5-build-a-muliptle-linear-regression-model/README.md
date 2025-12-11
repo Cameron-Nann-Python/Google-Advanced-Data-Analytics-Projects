@@ -35,28 +35,21 @@ The project_5_Automatidata_lab.ipynb file contains the data modeling process on 
 - seaborn==0.13.2
   
 ## 📘 Getting Started
-1. **Clone the repository branch into a project folder in VSCode**
-```
-git clone --branch project-5-build-a-multiple-linear-regression-model --single-branch https://github.com/Cameron-Nann-Python/Google-Advanced-Data-Analytics-Projects.git
-```
-2. **Navigate to the project folder and create a virtual environment**
-```
-# Ran on Python3.13
-cd Google-Advanced-Data-Analytics-Projects
-python -m venv venv
+1. **Install Anaconda Navigator and create a virtual environment with Conda**
 
-# activate the virtual environment
-venv\Scripts\activate # Windows
-```
+2. **Install the Jupyter Extension in VS Code, select the Conda environment as the kernel, and install the ipykernel package**
+- The package will automatically request to be installed in VS Code when trying to running a cell in a .ipynb file
+  
 3. **Install dependencies**
 ```
-pip install pandas==2.3.1 numpy==2.3.2 scikit-learn==1.7.1 matplotlib==3.10.5 seaborn==0.13.2 ipykernel
+pip install pandas==2.3.1 numpy==2.3.2 scikit-learn==1.7.1 matplotlib==3.10.5 seaborn==0.13.2
 ```
 
 4. **Open notebook and review documents as needed**
 - Open lab notebook `project_5_Automatidata_lab.ipynb` and select the virtual environment for the kernel
 - Either change the location of the csv or put "csv/" when loading dataset (Windows) into a DataFrame
-- Review `pdf` folder to better understand workflow
+- Review `pdf` folder to better understand the workflow
+  
 ## 📂 Files Included
 - `2017_Yellow_Tax_Trip_Data.csv`: TLC taxicab dataset
 - `project_5_PACE_strategy.pdf`: guide for project workflow
